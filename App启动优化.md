@@ -11,7 +11,7 @@
   * 更详细的信息 `DYLD_PRINT_STATISTICS_DETAILS`设置为1
 
 ## App冷启动可以概括为三大阶段
-![](https://raw.githubusercontent.com/WWQ824/question/main/%E5%90%AF%E5%8A%A8%E6%97%B6%E9%97%B4%E5%88%86%E6%9E%90%E5%9B%BE.png)
+![](https://raw.githubusercontent.com/WWQ824/question/main/启动时间分析图.png)
 
 * dyld(dynamic link editor), Apple的动态链接器, 可以用来装载Mach-O文件(可执行文件, 动态库)
   * 装载App的可执行文件, 同时会递归加载所有依赖的动态库

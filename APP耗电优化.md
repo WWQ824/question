@@ -1,4 +1,4 @@
-# APP耗电
+# App耗电优化
 
 ## 耗电的主要来源
 * CPU处理, Processing

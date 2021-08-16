@@ -56,6 +56,7 @@ App Thinning 包含三种方式，包括：App Slicing、Bitcode、On-Demand Res
    * 下线无用的业务和第三方SDK
    * 图片裁剪细分，要求相似的图片裁剪提供
    * 尽量少用图片，可使用代码绘制
+   * 可借助第三方工具 [LinkMap](https://github.com/huanxsd/LinkMap) 解析Xcode生成的LinkMap文件, 分析代码文件大小
  
 2. 压
    * 协调UI压缩资源

@@ -5,7 +5,8 @@
 
 ## Git工作流程图
 ![git流程图](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg2020.cnblogs.com%2Fblog%2F932856%2F202004%2F932856-20200423143251346-796113044.jpg&refer=http%3A%2F%2Fimg2020.cnblogs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1631689272&t=94c1d3733deea9a199cef462fa43deae "git流程图")
-![](https://raw.githubusercontent.com/WWQ824/question/main/git_flow_icon.png)
+
+![怎么就是不显示图片呢](https://raw.githubusercontent.com/WWQ824/question/main/git_flow_icon.png)
 
 ## Git配置
 * `git config -l`查看配置列表
